@@ -1,0 +1,1 @@
+## This repo holds the homework solutions for the class CSCI 5828 - Foundations of Software Engineering
