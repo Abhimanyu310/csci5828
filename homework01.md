@@ -4,6 +4,8 @@
 
 
 ### Solution:
+
+
 ---
 
 #### Essential Difficulties
@@ -13,6 +15,8 @@
 improvement in performance price gain, we cannot expect the same rate of progress out of software technology.
 * Software comprises of a lot of complex tecnologies working together like relations, algorithms and functions. This is the very reason that building a software to be hard and thus cannot replicate the progress achieved by its hardware counterparts.
 * For example, understanding the concept behind the software is the most important part of software development. When the client provides arbitrary specifications, and the developers do not communicate properly to resolve the same, it can lead to different concepts of the final product for both parties. This is a case of essential difficulty in the production of software
+
+
 ---
 
 #### Accidental Difficulties
@@ -21,6 +25,8 @@ improvement in performance price gain, we cannot expect the same rate of progres
 * This does not always mean the difficulties caused by accidents, but instead the ones where one solution leads to another problem.
 * Brooks also argues that most of the improvements in software engineering target the accidental difficulties and they have been solved as much as they could have been.
 * For example, one of the biggest steps in finishing a software is testing. One can create vast amounts of tests, covering all test cases, and yet, during production, one such case arrises which was never imagined to exist. This is an accidental difficulty because all of the test cases were not covered.
+
+
 ---
 
 #### Four Essential Difficulties
@@ -41,6 +47,8 @@ improvement in performance price gain, we cannot expect the same rate of progres
     * Brooks rightly says that software is invisible and its visualization in our 3D space is difficult.
     * Even if we try to create a diagram, often times these are too complex and a single diagram cannot help visualize the entire software which is made up of various different parts.
     * We could try to create UML's but these contain a lot of different shapes and becomes difficult to visualize for the non-developers.
+
+
 ---
 
 #### Silver Bullet
@@ -49,6 +57,8 @@ improvement in performance price gain, we cannot expect the same rate of progres
 * Brooks article on *No Silver Bullets* rightly states that there is no single technique to increase the productivity of software, but the same can be achieved by a combination of various tools that are specifically targeted at the various difficulties.
 * Brooks presents a comparison to hardware entities and says that software is much different than hardware as it consists of various different entities with a lot more complex relationships between them.
 * With these arguments Brooks believes that there is no silver bullet for software engineering.
+
+
 ---
 
 #### Software Engineering
@@ -59,6 +69,8 @@ improvement in performance price gain, we cannot expect the same rate of progres
 * He knows that the proposed idea works, since it has been proved with a small scale working model, but to use it on a much larger scale that is hundreds or thousands or magnitude larger than a laboratory is a very different task. This is where a chemical engineer needs to take into account a lot of other things like budget, demands and even feasibility on such a large scale.
 * The same relation exists between computer science and software engineering where computer science represents the chemist and chemical engineer is represented by software engineering.
 * Computer science can propose all sorts of different algorithms to reduce time complexity of various operations, but it is software engineering that decides the feasibility of the same by taking into account a lot of other relevant things like processor speed.
+
+
 ---
 
 #### Software Engineering Concepts
@@ -82,4 +94,6 @@ improvement in performance price gain, we cannot expect the same rate of progres
 	* Software engineering is an interative process, which relates to creating abstractions.
 	* We keep working to the final product step by step, until the product matched our desired one.
 	* If it doesn't, we iterate again, until we are done.
+
+
 ---
