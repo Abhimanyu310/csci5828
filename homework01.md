@@ -97,3 +97,7 @@ improvement in performance price gain, we cannot expect the same rate of progres
 
 
 ---
+
+## Reference
+
+* *No Silver Bullet: Essence and Accidents of Software Engineering*, Brooks
